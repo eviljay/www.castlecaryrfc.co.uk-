@@ -1,0 +1,48 @@
+#navbar, #topleft, #topmiddle, #leftmiddle {display:none;}
+body {font-family: Verdana, Geneva, Arial, helvetica, sans-serif; margin:0; padding:0; background-color:#FFFFFF;}
+li	{line-height:2; list-style-position: outside;}
+h2	{font-size:18pt; margin:0;}
+.dirli	{line-height:1;}
+.hide {display:none}
+.style1	{font-size:10pt; color:#000000;}
+.style2	{font-size:10pt; color:#f7b531;}
+.style4	{font-size:10pt; color:#000000;}
+.style5	{color:#dc0707}
+.style6 {font-size:10pt; color:#f7b531;}
+.style8	{font-size:10pt; color:#ffce08;}
+.style9	{font-size:10pt; color:#ffce08;}
+.style10	{font-size:10pt; color:#999999;}
+.style11	{font-size:10pt; color:#000000;}
+.style12	{font-size:10pt; color:#ffce08;}
+.style13	{font-size:12pt; font-weight:bold; color:#000000;}
+.style14	{font-size:10pt; color:#999999;}
+.style15	{font-size:10pt; color:#dc0707;}
+.style16	{font-size:10pt;}
+a:visited {text-decoration:none;}
+a:hover	{text-decoration:underline;}
+.mthumb {border:1px solid black; width:75px; height:75px;}
+.hthumb {border:1px solid black; width:73px; height:55px;}
+.vthumb {border: 1px solid black; width:55px; height:73px;}
+.teamthumb {border:1px solid black; width:92px; height:51px;}
+.hpic {border:1px solid black; width:242px; height:183px;}
+.vpic {border:1px solid black; width:183px; height:242px;}
+#maintable	{width:98%; background-color:#ffffff; border:0; padding:0;}
+#newspic	{width:135px; height:87px; border:0;}
+#matchrep {background-color:#ece9d8; border:2px solid black; padding:10px;}
+#advert	{border:1px solid #dc0707; text-align:center;}
+#adtext	{padding:5px;}
+#mship {background-color:#ece9d8; padding:5px;}
+#logo {background-image:url(../graphics/rugby_rh_small.gif); background-repeat:no-repeat; background-position: center; width:87px; height:83px;}
+#content {padding:10px;}
+#header {width:100%; padding:0; border-bottom: 2px solid #dc0707;}
+#links {width:22%; vertical-align:top}
+#gallery {padding-left:20px; padding-right:20px; padding-top:10px; padding-bottom:10px}
+.reshead {background-color:#CCCCCC; padding:10px; text-align:center; font-size:13px; color:#000000; border-bottom:2px solid black;}
+#clubhouse {border:2px solid #DC0707; padding-left:4px; padding-right:4px; padding-top:1px; padding-bottom:1px; background-color:#99ccff;}
+.home {background-color:#dc0707; text-align:left; padding:10px;}
+.away {background-color:#000000; text-align:left; padding:10px;}
+.resaway {background-color:#000000; text-align:center;}
+.reshome {background-color:#dc0707; text-align:center;}
+.archaway {background-color:#000000; text-align:left; padding:5px; border-bottom:1px solid #ffce08;}
+.archhome {background-color:#dc0707; text-align:left; padding:5px; border-bottom:1px solid #ffce08;}
+
